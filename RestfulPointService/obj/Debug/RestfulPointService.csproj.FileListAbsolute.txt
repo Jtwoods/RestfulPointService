@@ -1,0 +1,6 @@
+c:\users\james\documents\visual studio 2012\Projects\RestfulPointService\RestfulPointService\bin\Debug\RestfulPointService.exe.config
+c:\users\james\documents\visual studio 2012\Projects\RestfulPointService\RestfulPointService\obj\Debug\RestfulPointService.csprojResolveAssemblyReference.cache
+c:\users\james\documents\visual studio 2012\Projects\RestfulPointService\RestfulPointService\bin\Debug\RestfulPointService.exe
+c:\users\james\documents\visual studio 2012\Projects\RestfulPointService\RestfulPointService\bin\Debug\RestfulPointService.pdb
+c:\users\james\documents\visual studio 2012\Projects\RestfulPointService\RestfulPointService\obj\Debug\RestfulPointService.exe
+c:\users\james\documents\visual studio 2012\Projects\RestfulPointService\RestfulPointService\obj\Debug\RestfulPointService.pdb
